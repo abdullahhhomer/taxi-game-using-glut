@@ -1,0 +1,175 @@
+﻿  21i-2569_project.cpp
+E:\Uni assignments\sem 1\PF\project\i212569\util.h(296,48): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\Uni assignments\sem 1\PF\project\i212569\21i-2569_project.cpp(76,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\Uni assignments\sem 1\PF\project\i212569\21i-2569_project.cpp(76,20): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\Uni assignments\sem 1\PF\project\i212569\21i-2569_project.cpp(79,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\Uni assignments\sem 1\PF\project\i212569\21i-2569_project.cpp(79,20): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\Uni assignments\sem 1\PF\project\i212569\21i-2569_project.cpp(82,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\Uni assignments\sem 1\PF\project\i212569\21i-2569_project.cpp(82,20): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\Uni assignments\sem 1\PF\project\i212569\21i-2569_project.cpp(92,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\Uni assignments\sem 1\PF\project\i212569\21i-2569_project.cpp(92,20): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\Uni assignments\sem 1\PF\project\i212569\21i-2569_project.cpp(95,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\Uni assignments\sem 1\PF\project\i212569\21i-2569_project.cpp(95,20): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\Uni assignments\sem 1\PF\project\i212569\21i-2569_project.cpp(98,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\Uni assignments\sem 1\PF\project\i212569\21i-2569_project.cpp(98,20): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\Uni assignments\sem 1\PF\project\i212569\21i-2569_project.cpp(101,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\Uni assignments\sem 1\PF\project\i212569\21i-2569_project.cpp(101,20): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\Uni assignments\sem 1\PF\project\i212569\21i-2569_project.cpp(116,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\Uni assignments\sem 1\PF\project\i212569\21i-2569_project.cpp(116,20): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\Uni assignments\sem 1\PF\project\i212569\21i-2569_project.cpp(119,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\Uni assignments\sem 1\PF\project\i212569\21i-2569_project.cpp(119,20): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\Uni assignments\sem 1\PF\project\i212569\21i-2569_project.cpp(122,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\Uni assignments\sem 1\PF\project\i212569\21i-2569_project.cpp(122,20): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\Uni assignments\sem 1\PF\project\i212569\21i-2569_project.cpp(125,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\Uni assignments\sem 1\PF\project\i212569\21i-2569_project.cpp(125,20): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\Uni assignments\sem 1\PF\project\i212569\21i-2569_project.cpp(144,20): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\Uni assignments\sem 1\PF\project\i212569\21i-2569_project.cpp(144,16): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\Uni assignments\sem 1\PF\project\i212569\21i-2569_project.cpp(145,20): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\Uni assignments\sem 1\PF\project\i212569\21i-2569_project.cpp(145,16): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\Uni assignments\sem 1\PF\project\i212569\21i-2569_project.cpp(153,18): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\Uni assignments\sem 1\PF\project\i212569\21i-2569_project.cpp(153,14): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\Uni assignments\sem 1\PF\project\i212569\21i-2569_project.cpp(154,18): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\Uni assignments\sem 1\PF\project\i212569\21i-2569_project.cpp(154,14): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\Uni assignments\sem 1\PF\project\i212569\21i-2569_project.cpp(160,19): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\Uni assignments\sem 1\PF\project\i212569\21i-2569_project.cpp(160,15): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\Uni assignments\sem 1\PF\project\i212569\21i-2569_project.cpp(161,19): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\Uni assignments\sem 1\PF\project\i212569\21i-2569_project.cpp(161,15): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\Uni assignments\sem 1\PF\project\i212569\21i-2569_project.cpp(506,16): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+E:\Uni assignments\sem 1\PF\project\i212569\21i-2569_project.cpp(786,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\Uni assignments\sem 1\PF\project\i212569\21i-2569_project.cpp(843,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\Uni assignments\sem 1\PF\project\i212569\CImg.h(16232,45): warning C4319: '~': zero extending 'unsigned int' to 'double' of greater size
+E:\Uni assignments\sem 1\PF\project\i212569\CImg.h(14785,1): message : while compiling class template member function 'unsigned int cimg_library::CImg<float>::_cimg_math_parser::compile(char *,char *,const unsigned int,unsigned int *const )'
+E:\Uni assignments\sem 1\PF\project\i212569\CImg.h(14663,39): message : see reference to function template instantiation 'unsigned int cimg_library::CImg<float>::_cimg_math_parser::compile(char *,char *,const unsigned int,unsigned int *const )' being compiled
+E:\Uni assignments\sem 1\PF\project\i212569\CImg.h(23037,1): message : see reference to class template instantiation 'cimg_library::CImg<float>::_cimg_math_parser' being compiled
+E:\Uni assignments\sem 1\PF\project\i212569\CImg.h(23028,1): message : while compiling class template member function 'double cimg_library::CImg<float>::_eval(cimg_library::CImg<float> *const ,const char *const ,const double,const double,const double,const double,const cimg_library::CImgList<T> *const ,cimg_library::CImgList<T> *const ) const'
+          with
+          [
+              T=float
+          ]
+E:\Uni assignments\sem 1\PF\project\i212569\CImg.h(23023,7): message : see reference to function template instantiation 'double cimg_library::CImg<float>::_eval(cimg_library::CImg<float> *const ,const char *const ,const double,const double,const double,const double,const cimg_library::CImgList<T> *const ,cimg_library::CImgList<T> *const ) const' being compiled
+          with
+          [
+              T=float
+          ]
+E:\Uni assignments\sem 1\PF\project\i212569\CImg.h(34724,1): message : see reference to class template instantiation 'cimg_library::CImg<float>' being compiled
+E:\Uni assignments\sem 1\PF\project\i212569\CImg.h(19524,1): message : see reference to class template instantiation 'cimg_library::CImg<double>' being compiled
+E:\Uni assignments\sem 1\PF\project\i212569\CImg.h(52471,4): message : see reference to class template instantiation 'cimg_library::CImg<T>' being compiled
+E:\Uni assignments\sem 1\PF\project\i212569\CImg.h(19228,1): warning C4319: '~': zero extending 'unsigned int' to 'double' of greater size
+E:\Uni assignments\sem 1\PF\project\i212569\CImg.h(19226,1): message : while compiling class template member function 'double cimg_library::CImg<float>::_cimg_math_parser::mp_bitwise_not(cimg_library::CImg<float>::_cimg_math_parser &)'
+E:\Uni assignments\sem 1\PF\project\i212569\CImg.h(16231,43): message : see reference to function template instantiation 'double cimg_library::CImg<float>::_cimg_math_parser::mp_bitwise_not(cimg_library::CImg<float>::_cimg_math_parser &)' being compiled
+  util.cpp
+E:\Uni assignments\sem 1\PF\project\i212569\util.h(296,48): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\Uni assignments\sem 1\PF\project\i212569\util.cpp(9,26): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+E:\Uni assignments\sem 1\PF\project\i212569\util.cpp(12,15): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+E:\Uni assignments\sem 1\PF\project\i212569\util.cpp(19,18): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+E:\Uni assignments\sem 1\PF\project\i212569\util.cpp(19,14): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+E:\Uni assignments\sem 1\PF\project\i212569\util.cpp(20,27): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+E:\Uni assignments\sem 1\PF\project\i212569\util.cpp(20,22): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+E:\Uni assignments\sem 1\PF\project\i212569\util.cpp(21,35): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+E:\Uni assignments\sem 1\PF\project\i212569\util.cpp(21,22): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+E:\Uni assignments\sem 1\PF\project\i212569\util.cpp(22,18): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+E:\Uni assignments\sem 1\PF\project\i212569\util.cpp(22,14): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+E:\Uni assignments\sem 1\PF\project\i212569\util.cpp(23,35): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+E:\Uni assignments\sem 1\PF\project\i212569\util.cpp(23,22): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+E:\Uni assignments\sem 1\PF\project\i212569\util.cpp(24,26): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+E:\Uni assignments\sem 1\PF\project\i212569\util.cpp(24,14): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+E:\Uni assignments\sem 1\PF\project\i212569\util.cpp(61,30): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\Uni assignments\sem 1\PF\project\i212569\util.cpp(109,14): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+E:\Uni assignments\sem 1\PF\project\i212569\util.cpp(113,17): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+E:\Uni assignments\sem 1\PF\project\i212569\util.cpp(113,13): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+E:\Uni assignments\sem 1\PF\project\i212569\util.cpp(114,17): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+E:\Uni assignments\sem 1\PF\project\i212569\util.cpp(114,13): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+E:\Uni assignments\sem 1\PF\project\i212569\util.cpp(167,17): warning C4305: '*=': truncation from 'double' to 'float'
+E:\Uni assignments\sem 1\PF\project\i212569\util.cpp(172,57): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\Uni assignments\sem 1\PF\project\i212569\util.cpp(261,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\Uni assignments\sem 1\PF\project\i212569\util.cpp(273,3): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+E:\Uni assignments\sem 1\PF\project\i212569\util.cpp(273,3): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+E:\Uni assignments\sem 1\PF\project\i212569\util.cpp(273,24): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+E:\Uni assignments\sem 1\PF\project\i212569\util.cpp(273,24): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+E:\Uni assignments\sem 1\PF\project\i212569\util.cpp(322,42): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+E:\Uni assignments\sem 1\PF\project\i212569\util.cpp(322,27): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+E:\Uni assignments\sem 1\PF\project\i212569\util.cpp(326,44): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+E:\Uni assignments\sem 1\PF\project\i212569\util.cpp(326,28): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+E:\Uni assignments\sem 1\PF\project\i212569\util.cpp(334,42): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+E:\Uni assignments\sem 1\PF\project\i212569\util.cpp(334,26): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+E:\Uni assignments\sem 1\PF\project\i212569\util.cpp(337,42): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+E:\Uni assignments\sem 1\PF\project\i212569\util.cpp(337,26): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+E:\Uni assignments\sem 1\PF\project\i212569\util.cpp(343,43): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+E:\Uni assignments\sem 1\PF\project\i212569\util.cpp(343,27): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+E:\Uni assignments\sem 1\PF\project\i212569\util.cpp(347,41): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+E:\Uni assignments\sem 1\PF\project\i212569\util.cpp(347,26): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+E:\Uni assignments\sem 1\PF\project\i212569\util.cpp(351,49): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+E:\Uni assignments\sem 1\PF\project\i212569\util.cpp(351,30): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+E:\Uni assignments\sem 1\PF\project\i212569\util.cpp(355,47): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+E:\Uni assignments\sem 1\PF\project\i212569\util.cpp(355,29): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+E:\Uni assignments\sem 1\PF\project\i212569\util.cpp(363,49): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+E:\Uni assignments\sem 1\PF\project\i212569\util.cpp(363,30): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+E:\Uni assignments\sem 1\PF\project\i212569\util.cpp(367,47): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+E:\Uni assignments\sem 1\PF\project\i212569\util.cpp(367,29): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+E:\Uni assignments\sem 1\PF\project\i212569\util.cpp(383,41): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+E:\Uni assignments\sem 1\PF\project\i212569\util.cpp(383,26): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+E:\Uni assignments\sem 1\PF\project\i212569\util.cpp(390,47): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+E:\Uni assignments\sem 1\PF\project\i212569\util.cpp(390,29): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+E:\Uni assignments\sem 1\PF\project\i212569\util.cpp(397,49): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+E:\Uni assignments\sem 1\PF\project\i212569\util.cpp(397,30): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+E:\Uni assignments\sem 1\PF\project\i212569\util.cpp(404,43): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+E:\Uni assignments\sem 1\PF\project\i212569\util.cpp(404,27): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+E:\Uni assignments\sem 1\PF\project\i212569\util.cpp(411,33): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+E:\Uni assignments\sem 1\PF\project\i212569\util.cpp(410,43): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+E:\Uni assignments\sem 1\PF\project\i212569\util.cpp(423,42): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+E:\Uni assignments\sem 1\PF\project\i212569\util.cpp(423,26): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+E:\Uni assignments\sem 1\PF\project\i212569\util.cpp(425,40): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+E:\Uni assignments\sem 1\PF\project\i212569\util.cpp(425,25): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+E:\Uni assignments\sem 1\PF\project\i212569\util.cpp(428,46): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+E:\Uni assignments\sem 1\PF\project\i212569\util.cpp(428,28): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+E:\Uni assignments\sem 1\PF\project\i212569\util.cpp(430,48): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+E:\Uni assignments\sem 1\PF\project\i212569\util.cpp(430,29): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+E:\Uni assignments\sem 1\PF\project\i212569\util.cpp(443,17): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+E:\Uni assignments\sem 1\PF\project\i212569\util.cpp(443,13): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+E:\Uni assignments\sem 1\PF\project\i212569\util.cpp(444,26): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+E:\Uni assignments\sem 1\PF\project\i212569\util.cpp(444,21): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+E:\Uni assignments\sem 1\PF\project\i212569\util.cpp(445,34): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+E:\Uni assignments\sem 1\PF\project\i212569\util.cpp(445,21): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+E:\Uni assignments\sem 1\PF\project\i212569\util.cpp(446,17): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+E:\Uni assignments\sem 1\PF\project\i212569\util.cpp(446,13): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+E:\Uni assignments\sem 1\PF\project\i212569\util.cpp(447,34): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+E:\Uni assignments\sem 1\PF\project\i212569\util.cpp(447,21): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+E:\Uni assignments\sem 1\PF\project\i212569\util.cpp(448,25): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+E:\Uni assignments\sem 1\PF\project\i212569\util.cpp(448,13): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+E:\Uni assignments\sem 1\PF\project\i212569\CImg.h(16232,45): warning C4319: '~': zero extending 'unsigned int' to 'double' of greater size
+E:\Uni assignments\sem 1\PF\project\i212569\CImg.h(14785,1): message : while compiling class template member function 'unsigned int cimg_library::CImg<float>::_cimg_math_parser::compile(char *,char *,const unsigned int,unsigned int *const )'
+E:\Uni assignments\sem 1\PF\project\i212569\CImg.h(14663,39): message : see reference to function template instantiation 'unsigned int cimg_library::CImg<float>::_cimg_math_parser::compile(char *,char *,const unsigned int,unsigned int *const )' being compiled
+E:\Uni assignments\sem 1\PF\project\i212569\CImg.h(23037,1): message : see reference to class template instantiation 'cimg_library::CImg<float>::_cimg_math_parser' being compiled
+E:\Uni assignments\sem 1\PF\project\i212569\CImg.h(23028,1): message : while compiling class template member function 'double cimg_library::CImg<float>::_eval(cimg_library::CImg<float> *const ,const char *const ,const double,const double,const double,const double,const cimg_library::CImgList<T> *const ,cimg_library::CImgList<T> *const ) const'
+          with
+          [
+              T=float
+          ]
+E:\Uni assignments\sem 1\PF\project\i212569\CImg.h(23023,7): message : see reference to function template instantiation 'double cimg_library::CImg<float>::_eval(cimg_library::CImg<float> *const ,const char *const ,const double,const double,const double,const double,const cimg_library::CImgList<T> *const ,cimg_library::CImgList<T> *const ) const' being compiled
+          with
+          [
+              T=float
+          ]
+E:\Uni assignments\sem 1\PF\project\i212569\CImg.h(34724,1): message : see reference to class template instantiation 'cimg_library::CImg<float>' being compiled
+E:\Uni assignments\sem 1\PF\project\i212569\CImg.h(19524,1): message : see reference to class template instantiation 'cimg_library::CImg<double>' being compiled
+E:\Uni assignments\sem 1\PF\project\i212569\CImg.h(52471,4): message : see reference to class template instantiation 'cimg_library::CImg<T>' being compiled
+E:\Uni assignments\sem 1\PF\project\i212569\CImg.h(19228,1): warning C4319: '~': zero extending 'unsigned int' to 'double' of greater size
+E:\Uni assignments\sem 1\PF\project\i212569\CImg.h(19226,1): message : while compiling class template member function 'double cimg_library::CImg<float>::_cimg_math_parser::mp_bitwise_not(cimg_library::CImg<float>::_cimg_math_parser &)'
+E:\Uni assignments\sem 1\PF\project\i212569\CImg.h(16231,43): message : see reference to function template instantiation 'double cimg_library::CImg<float>::_cimg_math_parser::mp_bitwise_not(cimg_library::CImg<float>::_cimg_math_parser &)' being compiled
+21i-2569_project.obj : error LNK2001: unresolved external symbol __imp_glutPassiveMotionFunc
+21i-2569_project.obj : error LNK2001: unresolved external symbol __imp___glutCreateWindowWithExit
+21i-2569_project.obj : error LNK2001: unresolved external symbol __imp_glutMouseFunc
+21i-2569_project.obj : error LNK2001: unresolved external symbol __imp___glutInitWithExit
+21i-2569_project.obj : error LNK2001: unresolved external symbol __imp_glutPostRedisplay
+21i-2569_project.obj : error LNK2001: unresolved external symbol __imp_glutKeyboardFunc
+21i-2569_project.obj : error LNK2001: unresolved external symbol __imp_glutInitDisplayMode
+21i-2569_project.obj : error LNK2001: unresolved external symbol __imp_glutSpecialFunc
+21i-2569_project.obj : error LNK2001: unresolved external symbol __imp_glutTimerFunc
+21i-2569_project.obj : error LNK2001: unresolved external symbol __imp_glutDisplayFunc
+21i-2569_project.obj : error LNK2001: unresolved external symbol __imp_glutMainLoop
+21i-2569_project.obj : error LNK2001: unresolved external symbol __imp_glutInitWindowPosition
+21i-2569_project.obj : error LNK2001: unresolved external symbol __imp_glutMotionFunc
+21i-2569_project.obj : error LNK2001: unresolved external symbol __imp_glutInitWindowSize
+21i-2569_project.obj : error LNK2001: unresolved external symbol __imp_glutSwapBuffers
+util.obj : error LNK2001: unresolved external symbol __imp_glutBitmapCharacter
+E:\Uni assignments\sem 1\PF\project\i212569\Project1\x64\Release\Project1.exe : fatal error LNK1120: 16 unresolved externals
